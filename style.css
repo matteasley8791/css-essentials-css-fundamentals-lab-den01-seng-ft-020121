@@ -20,6 +20,13 @@ nav a {
   background-color: #bbb;
 }
 
+figcaption {
+  text-align: center;
+  font-size: 8pt;
+  background-color: grey;
+  margin: 0 auto;
+}
+
 details div{
   float: left;
   background-color: grey;
