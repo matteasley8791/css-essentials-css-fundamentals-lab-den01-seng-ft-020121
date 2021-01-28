@@ -3,3 +3,13 @@ body {
   height: 100%;
   margin: 0;
 }
+
+
+
+details div{
+  float: left;
+  background-color: grey;
+  background-color: red;
+  width: 25%;
+  text-align: center;
+} 
